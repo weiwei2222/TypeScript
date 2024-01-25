@@ -1,0 +1,11 @@
+"use strict";
+let age = 65553;
+let message = "Hello World";
+console.log(age);
+console.log(message);
+let names = ["haha", "test"];
+let ages = [34, 67, 2];
+names.push("Lily");
+ages.push(8);
+console.log(names);
+console.log(ages);
